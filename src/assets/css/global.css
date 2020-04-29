@@ -8,3 +8,9 @@ body,
 .login_container{
     height: 100%;
 }
+.el-table{
+    margin-top: 20px;
+}
+.el-pagination{
+    margin-top: 20px;
+}
