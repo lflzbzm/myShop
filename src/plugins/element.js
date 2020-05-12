@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import { Button, TimelineItem, Timeline, Cascader, Tag, MessageBox, Dialog, Pagination, Tooltip, Switch, Table, TableColumn, Row, Col, Card, Breadcrumb, BreadcrumbItem, Menu, Submenu, MenuItemGroup, MenuItem, Container, Header, Aside, Main, Form, FormItem, Input, Message } from 'element-ui'
+import { Button, Select, Option, Tree, TimelineItem, Timeline, Cascader, Tag, MessageBox, Dialog, Pagination, Tooltip, Switch, Table, TableColumn, Row, Col, Card, Breadcrumb, BreadcrumbItem, Menu, Submenu, MenuItemGroup, MenuItem, Container, Header, Aside, Main, Form, FormItem, Input, Message } from 'element-ui'
 
 Vue.use(Button)
 Vue.use(Form)
@@ -30,3 +30,6 @@ Vue.use(Tag)
 Vue.use(Cascader)
 Vue.use(Timeline)
 Vue.use(TimelineItem)
+Vue.use(Tree)
+Vue.use(Select)
+Vue.use(Option)
